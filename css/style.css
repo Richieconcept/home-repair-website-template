@@ -415,3 +415,12 @@ border: 10px;
     background-color:hsl(214, 100%, 34%) ;
     color: white;
 }
+
+/* .mycontainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+     */
