@@ -363,8 +363,9 @@
 }
 
 .bannerbtn{
-    background-color: green;
+    background-color: rgb(7, 161, 7);
     border: none;
+    color: white;
 }
 
 
@@ -395,6 +396,10 @@ border: 10px;
 
 .text-color{ 
     color: rgb(12, 158, 12);
+}
+
+.textcolorblue{
+    color:hsl(214, 100%, 34%) ;
 }
 
 .border-color{
