@@ -368,6 +368,10 @@
     color: white;
 }
 
+.form-color{
+    background-color: white;
+}
+
 
 
 .bgimg{
@@ -404,4 +408,10 @@ border: 10px;
 
 .border-color{
     border-left:2px solid green;
+}
+
+
+.colorblue-footer{
+    background-color:hsl(214, 100%, 34%) ;
+    color: white;
 }
